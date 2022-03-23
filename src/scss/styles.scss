@@ -24,3 +24,24 @@
 
 // Custom styles:
 
+.home:hover {
+    text-decoration: underline;
+}
+
+.article:hover {
+    text-decoration: underline;
+}
+
+.photos:hover {
+    text-decoration: underline;
+}
+
+.custom-footer.panel-custom {
+    background: rgb(69, 139, 139);
+    color: black;
+}
+
+.background-image:body {
+    background: #ffffff url("pirate-ship.jpg") no-repeat center;
+  }
+
