@@ -41,7 +41,9 @@
     color: black;
 }
 
-.background-image:body {
-    background: #ffffff url("pirate-ship.jpg") no-repeat center;
+#jumbotron {
+    background: url("../img/pirate-ship.jpg") no-repeat center;
+    background-size: cover;
+    font-family: UnifrakturCook;
   }
 
